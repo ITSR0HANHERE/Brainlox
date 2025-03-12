@@ -114,7 +114,6 @@ The application requires the following environment variable:
 ## 📷 Screenshots
 
 - User interface of chatbot
-  ![Application interface](/images/Screenshot_11-3-2025_20229_127.0.0.1.png)
   <div align="center">
   <img src="./images/Screenshot_11-3-2025_20229_127.0.0.1.png" alt="Alt text" width="400"/>
 </div>
