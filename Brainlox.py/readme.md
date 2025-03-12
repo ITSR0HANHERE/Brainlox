@@ -115,7 +115,7 @@ The application requires the following environment variable:
 
 - User interface of chatbot
   <div align="center">
-  <img src="./images/Screenshot_11-3-2025_20229_127.0.0.1.png" alt="Alt text" width="400"/>
+  <img src="./images/Screenshot_11-3-2025_20229_127.0.0.1.png" alt="Alt text" width="600"/>
 </div>
 
 ## 🔮 Future Improvements
